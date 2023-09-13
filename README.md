@@ -1,9 +1,1 @@
-# Assault
-
-
-The dataset was obtained from data.torontopolice.on.ca
-
-The aim of this project is to analyze assaults reported to the toronto police dating from 2014-2022.
-
-The data obtained was partially clean and did not require much technical data cleaning.
-
+The project involves the analysis of assault reports reported to the Toronto Police from 2014 to 2022. The dataset was sourced from data.torontopolice.on.ca and required minimal technical data cleaning, allowing for a streamlined analysis of assault-related information during the specified timeframe.
